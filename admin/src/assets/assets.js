@@ -8,7 +8,7 @@ import logo6 from './logo6.png'
 import logo3 from './logo3.png'
 
 
-export const url = 'http://localhost:4000'
+export const url = 'https://digidine-xfpe.onrender.com'
 export const currency = '₹'
 
 export const assets ={
